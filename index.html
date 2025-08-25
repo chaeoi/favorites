@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" href="images/icon.svg" type="image/svg+xml" />
+    <link rel="stylesheet" href="https://registry.npmmirror.com/lxgw-wenkai-screen-web/latest/files/style.css" />
+    <link rel="stylesheet" href="assets/styles.css" />
+    <title>Canghai's Favorites</title>
+  </head>
+
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-H2MG232KHY"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+    gtag("js", new Date());
+    gtag("config", "G-H2MG232KHY");
+  </script>
+
+  <body>
+    <div class="container">
+      <header>
+        <div class="search-bar">
+          <form id="searchForm">
+            <div class="search-bar-container">
+              <div class="custom-select">
+                <div class="selected-option" id="selectedOption">
+                  <img src="images/google.svg" alt="图标" class="select-icon" id="selectedIcon" />
+                </div>
+                <ul class="options" id="optionsList">
+                  <li data-url="https://www.google.com/search?q=">
+                    <span class="select-item-content">
+                      <img src="images/google.svg" alt="Google" class="select-icon" />
+                      <span style="font-size: 13px; color: #555">谷歌</span>
+                    </span>
+                  </li>
+                  <li data-url="https://www.bing.com/search?q=">
+                    <span class="select-item-content">
+                      <img src="images/bing.svg" alt="Bing" class="select-icon" />
+                      <span style="font-size: 13px; color: #555">必应</span>
+                    </span>
+                  </li>
+                  <li data-url="https://www.baidu.com/s?wd=">
+                    <span class="select-item-content">
+                      <img src="images/baidu.svg" alt="Baidu" class="select-icon" />
+                      <span style="font-size: 13px; color: #555">百度</span>
+                    </span>
+                  </li>
+                </ul>
+              </div>
+              <input type="text" id="searchInput" />
+              <button>🔍</button>
+            </div>
+          </form>
+        </div>
+      </header>
+      <nav class="categories" id="categoriesContainer"></nav>
+    </div>
+    <script src="assets/script.js"></script>
+  </body>
+</html>

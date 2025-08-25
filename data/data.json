@@ -1,0 +1,928 @@
+[
+  {
+    "links": [
+      {
+        "text": "Canghai",
+        "url": "https://about.canghai.org/"
+      },
+      {
+        "text": "Canghai's Blog",
+        "url": "https://blog.canghai.org/"
+      },
+      {
+        "text": "足迹",
+        "url": "https://blog.canghai.org/travel/"
+      },
+      {
+        "text": "晚秋的小本本",
+        "url": "https://hok.canghai.org/"
+      },
+      {
+        "text": "探针",
+        "url": "https://status.canghai.org/"
+      },
+      {
+        "text": "Wallpaper",
+        "url": "https://bing.canghai.org/"
+      },
+      {
+        "text": "SLink",
+        "url": "https://slink.canghai.org/"
+      },
+      {
+        "text": "Bitwarden",
+        "url": "https://bitwarden.canghai.org/"
+      },
+      {
+        "text": "Alist",
+        "url": "https://alist.canghai.org/"
+      },
+      {
+        "text": "Memos",
+        "url": "https://memos.canghai.org/"
+      },
+      {
+        "text": "AriaNG",
+        "url": "https://ariang.canghai.org/"
+      }
+    ]
+  },
+  {
+    "category": "AI",
+    "links": [
+      {
+        "text": "ChatGPT",
+        "url": "https://chatgpt.com/"
+      },
+      {
+        "text": "Google AI Studio",
+        "url": "https://aistudio.google.com/"
+      },
+      {
+        "text": "KIMI",
+        "url": "https://kimi.moonshot.cn/"
+      },
+      {
+        "text": "DeepSeek",
+        "url": "https://chat.deepseek.com/"
+      },
+      {
+        "text": "豆包",
+        "url": "https://www.doubao.com/"
+      },
+      {
+        "text": "文言一心",
+        "url": "https://yiyan.baidu.com/"
+      },
+      {
+        "text": "通义千问",
+        "url": "https://tongyi.aliyun.com/"
+      }
+    ]
+  },
+  {
+    "category": "谷歌",
+    "links": [
+      {
+        "text": "Gmail",
+        "url": "https://mail.google.com/mail/"
+      },
+      {
+        "text": "Music",
+        "url": "https://music.youtube.com/"
+      },
+      {
+        "text": "YouTube",
+        "url": "https://www.youtube.com/"
+      },
+      {
+        "text": "Translate",
+        "url": "https://translate.google.com/"
+      },
+      {
+        "text": "Google Keep",
+        "url": "https://keep.google.com/"
+      },
+      {
+        "text": "Google Maps",
+        "url": "https://www.google.com/maps/"
+      },
+      {
+        "text": "Google Photos",
+        "url": "https://photos.google.com/"
+      },
+      {
+        "text": "Google Analytics",
+        "url": "https://analytics.google.com/"
+      },
+      {
+        "text": "Chrome Web Store",
+        "url": "https://chrome.google.com/webstore"
+      }
+    ]
+  },
+  {
+    "category": "效率",
+    "subcategories": [
+      {
+        "name": "邮箱",
+        "links": [
+          {
+            "text": "Lark",
+            "url": "https://www.larksuite.com/admin"
+          },
+          {
+            "text": "Mail.ru",
+            "url": "https://mail.ru/"
+          },
+          {
+            "text": "VK WorkSpace",
+            "url": "https://biz.mail.ru/"
+          },
+          {
+            "text": "QQ 邮箱",
+            "url": "https://mail.qq.com/"
+          },
+          {
+            "text": "网易企业邮箱",
+            "url": "https://mail.qiye.163.com/static/login/"
+          }
+        ]
+      },
+      {
+        "name": "网盘",
+        "links": [
+          {
+            "text": "百度网盘",
+            "url": "https://pan.baidu.com/infocenter/login/"
+          },
+          {
+            "text": "阿里云盘",
+            "url": "https://www.alipan.com/drive/"
+          },
+          {
+            "text": "夸克网盘",
+            "url": "https://pan.quark.cn/"
+          },
+          {
+            "text": "123云盘",
+            "url": "https://www.123pan.com/"
+          }
+        ]
+      },
+      {
+        "name": "域名",
+        "links": [
+          {
+            "text": "Cloudflare",
+            "url": "https://dash.cloudflare.com/"
+          },
+          {
+            "text": "TLD-LIST",
+            "url": "https://zh-hans.tld-list.com/"
+          },
+          {
+            "text": "Porkbun",
+            "url": "https://porkbun.com/"
+          },
+          {
+            "text": "Spaceship",
+            "url": "https://www.spaceship.com/"
+          },
+          {
+            "text": "eu.org",
+            "url": "https://nic.eu.org/arf/en/login/?next=/arf/en/"
+          }
+        ]
+      },
+      {
+        "name": "服务器",
+        "links": [
+          {
+            "text": "Oracle",
+            "url": "https://www.oracle.com/cn/cloud/sign-in.html"
+          },
+          {
+            "text": "Scaleway",
+            "url": "https://console.scaleway.com/"
+          },
+          {
+            "text": "Hosmatic",
+            "url": "https://www.hosmatic.com/cp"
+          },
+          {
+            "text": "LinuxONE",
+            "url": "https://linuxone.cloud.marist.edu/"
+          },
+          {
+            "text": "乐子云",
+            "url": "https://portal.runroad.cloud/"
+          },
+          {
+            "text": "DCI Cloud",
+            "url": "https://dash.duckyci.com/"
+          },
+          {
+            "text": "EdgeOne",
+            "url": "https://console.tencentcloud.com/edgeone/pages"
+          },
+          {
+            "text": "阿里云控制台",
+            "url": "https://console.aliyun.com/"
+          },
+          {
+            "text": "腾讯云控制台",
+            "url": "https://console.cloud.tencent.com/"
+          },
+          {
+            "text": "华为云国际",
+            "url": "https://console-intl.huaweicloud.com/"
+          },
+          {
+            "text": "华为云控制台",
+            "url": "https://console.huaweicloud.com/"
+          }
+        ]
+      },
+      {
+        "name": "微软开发者",
+        "links": [
+          {
+            "text": "E5 Dashboard",
+            "url": "https://developer.microsoft.com/zh-cn/microsoft-365/profile"
+          },
+          {
+            "text": "E5 Renew Plus",
+            "url": "https://e5renew.com/"
+          },
+          {
+            "text": "E5 Admin Center",
+            "url": "https://admin.microsoft.com/"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "工具",
+    "subcategories": [
+      {
+        "links": [
+          {
+            "text": "GitHub",
+            "url": "https://github.com/"
+          },
+          {
+            "text": "LaTeX",
+            "url": "https://www.latexlive.com/"
+          },
+          {
+            "text": "Cpolar",
+            "url": "https://dashboard.cpolar.com/status"
+          },
+          {
+            "text": "Base64",
+            "url": "https://base64.us/"
+          },
+          {
+            "text": "Wormhole",
+            "url": "https://wormhole.app/"
+          },
+          {
+            "text": "WolframAlpha",
+            "url": "https://www.wolframalpha.com/"
+          },
+          {
+            "text": "Wayback Machine",
+            "url": "https://web.archive.org/"
+          },
+          {
+            "text": "Maker World",
+            "url": "https://makerworld.com.cn/"
+          },
+          {
+            "text": "高德地图",
+            "url": "https://ditu.amap.com/"
+          }
+        ]
+      },
+      {
+        "name": "网络",
+        "links": [
+          {
+            "text": "ipGet",
+            "url": "https://ipget.net/"
+          },
+          {
+            "text": "IPLark",
+            "url": "https://iplark.com/"
+          },
+          {
+            "text": "IP查询",
+            "url": "https://ipw.cn/"
+          },
+          {
+            "text": "ITDOG",
+            "url": "https://www.itdog.cn/ping/"
+          },
+          {
+            "text": "Whoer",
+            "url": "https://whoer.net/"
+          },
+          {
+            "text": "Ping.pe",
+            "url": "https://ping.pe/"
+          },
+          {
+            "text": "IPinfo",
+            "url": "https://ipinfo.io/"
+          },
+          {
+            "text": "MaxMind",
+            "url": "https://www.maxmind.com/en/geoip-demo"
+          },
+          {
+            "text": "USTC ST",
+            "url": "https://test.ustc.edu.cn/"
+          },
+          {
+            "text": "Fast",
+            "url": "https://fast.com/"
+          },
+          {
+            "text": "SpeedTest",
+            "url": "https://www.speedtest.net/"
+          },
+          {
+            "text": "BGP Toolkit",
+            "url": "https://bgp.he.net/"
+          }
+        ]
+      },
+      {
+        "name": "匿名",
+        "links": [
+          {
+            "text": "BigHeads",
+            "url": "https://bigheads.io/"
+          },
+          {
+            "text": "AvaMaker",
+            "url": "https://avamake.com/"
+          },
+          {
+            "text": "Multiavatar",
+            "url": "https://multiavatar.com/"
+          },
+          {
+            "text": "This Person Does Not Exist",
+            "url": "https://thispersondoesnotexist.com/"
+          },
+          {
+            "text": "Mailio",
+            "url": "https://mail.io/register"
+          },
+          {
+            "text": "Snapmail",
+            "url": "https://www.snapmail.cc/"
+          },
+          {
+            "text": "Temp Mail",
+            "url": "https://temp-mail.org/"
+          },
+          {
+            "text": "WeTalk",
+            "url": "https://wetalkapp.com/receive-sms/"
+          },
+          {
+            "text": "SMS 24",
+            "url": "https://sms24.me/en"
+          },
+          {
+            "text": "TextNow",
+            "url": "https://www.textnow.com/messaging"
+          },
+          {
+            "text": "MyTempSMS",
+            "url": "https://cn.mytempsms.com/"
+          },
+          {
+            "text": "SMS Online",
+            "url": "https://smsreceivefree.com/"
+          },
+          {
+            "text": "SMS-Activate",
+            "url": "https://sms-activate.org/cn/freeNumbers"
+          },
+          {
+            "text": "Behind the Name",
+            "url": "https://www.behindthename.com/random/random.php"
+          },
+          {
+            "text": "Random Name Generator",
+            "url": "https://randomwordgenerator.com/name.php"
+          },
+          {
+            "text": "Proxyium",
+            "url": "https://proxyium.com/zh-CN/"
+          },
+          {
+            "text": "Proxylite",
+            "url": "https://www.proxylite.com/zh/proxysite/"
+          },
+          {
+            "text": "NamsoGen",
+            "url": "https://namso-gen.com/"
+          }
+        ]
+      },
+      {
+        "name": "搜书",
+        "links": [
+          {
+            "text": "鸠摩搜书",
+            "url": "https://www.jiumodiary.com/#"
+          },
+          {
+            "text": "AOAOSTAR书源",
+            "url": "https://legado.aoaostar.com/"
+          },
+          {
+            "text": "图书馆参考联盟",
+            "url": "http://www.ucdrs.superlib.net/"
+          }
+        ]
+      },
+      {
+        "name": "激活",
+        "links": [
+          {
+            "text": "KMSCX",
+            "url": "https://kms.cx/"
+          },
+          {
+            "text": "KMS.LOLI.BEER",
+            "url": "https://kms.loli.beer/"
+          },
+          {
+            "text": "Office Tool Plus",
+            "url": "https://otp.landian.vip/zh-cn/download.html"
+          }
+        ]
+      },
+      {
+        "name": "图片",
+        "links": [
+          {
+            "text": "IMGDD",
+            "url": "https://imgdd.com/"
+          },
+          {
+            "text": "聚合图床",
+            "url": "https://www.superbed.cn/"
+          },
+          {
+            "text": "绿色图床",
+            "url": "https://lvse.eu.org/"
+          },
+          {
+            "text": "ImageKit",
+            "url": "https://imagekit.io/"
+          },
+          {
+            "text": "压缩图像",
+            "url": "https://www.iloveimg.com/zh-cn/compress-image"
+          },
+          {
+            "text": "SVG-edit",
+            "url": "https://svgedit.netlify.app/editor/index.html"
+          },
+          {
+            "text": "Simple Icons",
+            "url": "https://simpleicons.org/"
+          }
+        ]
+      },
+      {
+        "name": "CDN",
+        "links": [
+          {
+            "text": "jsDelivr",
+            "url": "https://www.jsdelivr.com/"
+          },
+          {
+            "text": "Staticfile",
+            "url": "https://staticfile.net/"
+          },
+          {
+            "text": "Statically",
+            "url": "https://statically.io/"
+          },
+          {
+            "text": "BootCDN",
+            "url": "https://www.bootcdn.cn/"
+          },
+          {
+            "text": "ByteDance",
+            "url": "https://cdn.bytedance.com/"
+          },
+          {
+            "text": "npmmirror",
+            "url": "https://www.npmmirror.com/"
+          },
+          {
+            "text": "中文网字计划",
+            "url": "https://chinese-font.netlify.app/"
+          },
+          {
+            "text": "ZeoSeven Fonts",
+            "url": "https://fonts.zeoseven.com/"
+          }
+        ]
+      },
+      {
+        "name": "下载",
+        "links": [
+          {
+            "text": "Padavan",
+            "url": "https://opt.cn2qq.com/padavan/"
+          },
+          {
+            "text": "CrystalMark",
+            "url": "https://crystalmark.info/"
+          },
+          {
+            "text": "MSDN, I TELL YOU",
+            "url": "https://next.itellyou.cn/"
+          },
+          {
+            "text": "Microsoft Store RG",
+            "url": "https://store.rg-adguard.net/"
+          },
+          {
+            "text": "FreeBSD cloudflared",
+            "url": "https://cloudflared.bowring.uk/"
+          },
+          {
+            "text": "Steam Workshop Downloader",
+            "url": "https://steamworkshopdownloader.io/"
+          },
+          {
+            "text": "晨钟软件",
+            "url": "https://jamcz.com/"
+          },
+          {
+            "text": "APKPure",
+            "url": "https://apkpure.com/cn/"
+          },
+          {
+            "text": "XiaomiROM",
+            "url": "https://xiaomirom.com/"
+          },
+          {
+            "text": "流水断崖的分享屋",
+            "url": "https://lsdy.top/"
+          },
+          {
+            "text": "OrangeFox Recovery",
+            "url": "https://orangefox.download/"
+          },
+          {
+            "text": "423Down",
+            "url": "https://www.423down.com/"
+          },
+          {
+            "text": "PortableApps",
+            "url": "https://portableapps.com/"
+          },
+          {
+            "text": "IT天空原创软件",
+            "url": "https://www.itsk.com/"
+          },
+          {
+            "text": "油小猴",
+            "url": "https://www.youxiaohou.com/"
+          },
+          {
+            "text": "Greasy Fork",
+            "url": "https://greasyfork.org/"
+          },
+          {
+            "text": "Y2meta",
+            "url": "https://y2meta.tube/"
+          },
+          {
+            "text": "Addoncrop",
+            "url": "https://addoncrop.com/"
+          },
+          {
+            "text": "Cobalt",
+            "url": "https://cobalt.tools/"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "博客",
+    "links": [
+      {
+        "text": "千灵",
+        "url": "https://qianling.pw/"
+      },
+      {
+        "text": "Joway",
+        "url": "https://joway.io/"
+      },
+      {
+        "text": "Lvbibir",
+        "url": "https://www.lvbibir.cn/"
+      },
+      {
+        "text": "NTDEV",
+        "url": "https://ntdev.blog/"
+      },
+      {
+        "text": "TopsTip",
+        "url": "https://topstip.com/"
+      },
+      {
+        "text": "Hogwarts",
+        "url": "https://winamp.top/"
+      },
+      {
+        "text": "木木木木木",
+        "url": "https://immmmm.com/"
+      }
+    ]
+  },
+  {
+    "category": "论坛",
+    "links": [
+      {
+        "text": "墨滴",
+        "url": "https://mdnice.com/"
+      },
+      {
+        "text": "V2EX",
+        "url": "https://www.v2ex.com/"
+      },
+      {
+        "text": "JIKE社区",
+        "url": "https://jike.info/"
+      },
+      {
+        "text": "威锋论坛",
+        "url": "https://bbs.feng.com/"
+      },
+      {
+        "text": "吾爱破解",
+        "url": "https://www.52pojie.cn/"
+      },
+      {
+        "text": "恩山无线",
+        "url": "https://www.right.com.cn/forum/"
+      },
+      {
+        "text": "LINUX DO",
+        "url": "https://linux.do/"
+      },
+      {
+        "text": "NodeSeek",
+        "url": "https://www.nodeseek.com/"
+      }
+    ]
+  },
+  {
+    "category": "社交",
+    "links": [
+      {
+        "text": "知乎",
+        "url": "https://www.zhihu.com/"
+      },
+      {
+        "text": "微博",
+        "url": "https://www.weibo.com/"
+      },
+      {
+        "text": "BAND",
+        "url": "https://band.us/"
+      },
+      {
+        "text": "Twitter",
+        "url": "https://twitter.com/"
+      },
+      {
+        "text": "Instagram",
+        "url": "https://www.instagram.com/"
+      }
+    ]
+  },
+  {
+    "category": "娱乐",
+    "subcategories": [
+      {
+        "name": "PT",
+        "links": [
+          {
+            "text": "M-Team",
+            "url": "https://kp.m-team.cc/"
+          },
+          {
+            "text": "Rousi",
+            "url": "https://rousi.zip/"
+          },    
+          {
+            "text": "咖啡",
+            "url": "https://ptcafe.club/"
+          },
+          {
+            "text": "Panda",
+            "url": "https://pandapt.net/"
+          },
+          {
+            "text": "SuSu Share",
+            "url": "https://susuifa.com/"
+          },
+          {
+            "text": "ThePirateBay",
+            "url": "https://thepiratebay.org/"
+          }
+        ]
+      },
+      {
+        "name": "音乐",
+        "links": [
+          {
+            "text": "Spotify",
+            "url": "https://open.spotify.com/"
+          },
+          {
+            "text": "网易云音乐",
+            "url": "https://music.163.com/"
+          }
+        ]
+      },
+      {
+        "name": "视频",
+        "links": [
+          {
+            "text": "抖音",
+            "url": "https://www.douyin.com/"
+          },
+          {
+            "text": "IMDb",
+            "url": "https://www.imdb.com/"
+          },
+          {
+            "text": "Netflix",
+            "url": "https://www.netflix.com/"
+          },
+          {
+            "text": "新片场",
+            "url": "https://www.xinpianchang.com/"
+          },
+          {
+            "text": "优酷",
+            "url": "https://www.youku.com/"
+          },
+          {
+            "text": "爱奇艺",
+            "url": "https://www.iqiyi.com/"
+          },
+          {
+            "text": "腾讯视频",
+            "url": "https://v.qq.com/"
+          },
+          {
+            "text": "CCTV纪录",
+            "url": "https://tv.cctv.com/cctv9/"
+          },
+          {
+            "text": "AcFun",
+            "url": "https://www.acfun.cn/"
+          },
+          {
+            "text": "Bilibili",
+            "url": "https://www.bilibili.com/"
+          },
+          {
+            "text": "動畫瘋",
+            "url": "https://ani.gamer.com.tw/"
+          },
+          {
+            "text": "91美剧网",
+            "url": "https://91mjw.tv/"
+          }
+        ]
+      },
+      {
+        "name": "游戏",
+        "links": [
+          {
+            "text": "IITC-CE",
+            "url": "https://iitc.app/"
+          },
+          {
+            "text": "Niantic Wayfarer",
+            "url": "https://wayfarer.nianticlabs.com/"
+          },
+          {
+            "text": "Ingress Intel Map",
+            "url": "https://intel.ingress.com/"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "category": "学术",
+    "links": [
+      {
+        "text": "txyz",
+        "url": "https://app.txyz.ai/chat/"
+      },
+      {
+        "text": "LetPub",
+        "url": "https://www.letpub.com.cn/"
+      },
+      {
+        "text": "Sci-Hub",
+        "url": "https://sci-hub.se/"
+      },
+      {
+        "text": "百度学术",
+        "url": "https://xueshu.baidu.com/"
+      },
+      {
+        "text": "万方数据",
+        "url": "https://www.wanfangdata.com.cn/"
+      },
+      {
+        "text": "中国知网",
+        "url": "https://www.cnki.net/"
+      },
+      {
+        "text": "Google 学术",
+        "url": "https://scholar.google.com/"
+      }
+    ]
+  },
+  {
+    "category": "供应商",
+    "links": [
+      {
+        "text": "IKO",
+        "url": "https://ikont.com/"
+      },
+      {
+        "text": "THK",
+        "url": "https://tech.thk.com/"
+      },
+      {
+        "text": "NSK",
+        "url": "https://www.nsk.com.cn/"
+      },
+      {
+        "text": "IGUS",
+        "url": "https://www.igus.com.cn/"
+      },
+      {
+        "text": "SMC",
+        "url": "https://www.smc.com.cn/"
+      },
+      {
+        "text": "AirTag",
+        "url": "https://as-cn.airtac.com/"
+      },
+      {
+        "text": "HIWIN",
+        "url": "https://www.hiwin.cn/"
+      },
+      {
+        "text": "米思米",
+        "url": "https://www.misumi.com.cn/"
+      },
+      {
+        "text": "怡合达",
+        "url": "https://www.yhdfa.com/"
+      },
+      {
+        "text": "3D-Source",
+        "url": "https://www.3dsource.cn/"
+      },
+      {
+        "text": "易紧通",
+        "url": "https://www.164580.com/"
+      },
+      {
+        "text": "PartsCAD",
+        "url": "https://www.partscad.com/"
+      },
+      {
+        "text": "国家标准全文公开",
+        "url": "https://openstd.samr.gov.cn/bzgk/gb/index"
+      }
+    ]
+  }
+]
