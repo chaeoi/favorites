@@ -243,23 +243,6 @@
             "url": "https://console.huaweicloud.com/"
           }
         ]
-      },
-      {
-        "name": "微软开发者",
-        "links": [
-          {
-            "text": "E5 Dashboard",
-            "url": "https://developer.microsoft.com/zh-cn/microsoft-365/profile"
-          },
-          {
-            "text": "E5 Renew Plus",
-            "url": "https://e5renew.com/"
-          },
-          {
-            "text": "E5 Admin Center",
-            "url": "https://admin.microsoft.com/"
-          }
-        ]
       }
     ]
   },
