@@ -55,6 +55,10 @@
         "url": "https://chatgpt.com/"
       },
       {
+        "text": "Grok",
+        "url": "https://grok.com/"
+      },
+      {
         "text": "Google AI Studio",
         "url": "https://aistudio.google.com/"
       },
@@ -424,7 +428,7 @@
         "links": [
           {
             "text": "鸠摩搜书",
-            "url": "https://www.jiumodiary.com/#"
+            "url": "https://www.jiumodiary.com/"
           },
           {
             "text": "AOAOSTAR书源",
@@ -449,7 +453,7 @@
           },
           {
             "text": "Office Tool Plus",
-            "url": "https://otp.landian.vip/zh-cn/download.html"
+            "url": "https://otp.landian.vip/"
           }
         ]
       },
@@ -473,8 +477,8 @@
             "url": "https://imagekit.io/"
           },
           {
-            "text": "压缩图像",
-            "url": "https://www.iloveimg.com/zh-cn/compress-image"
+            "text": "iLoveIMG",
+            "url": "https://www.iloveimg.com/"
           },
           {
             "text": "SVG-edit",
@@ -528,7 +532,7 @@
         "links": [
           {
             "text": "Padavan",
-            "url": "https://opt.cn2qq.com/padavan/"
+            "url": "https://opt.cn2qq.com/"
           },
           {
             "text": "CrystalMark",
@@ -664,7 +668,7 @@
       },
       {
         "text": "恩山无线",
-        "url": "https://www.right.com.cn/forum/"
+        "url": "https://www.right.com.cn/"
       },
       {
         "text": "LINUX DO",
@@ -778,8 +782,12 @@
             "url": "https://v.qq.com/"
           },
           {
-            "text": "CCTV纪录",
-            "url": "https://tv.cctv.com/cctv9/"
+            "text": "芒果TV",
+            "url": "https://www.mgtv.com/"
+          },
+          {
+            "text": "央视网",
+            "url": "https://www.cctv.com//"
           },
           {
             "text": "AcFun",
@@ -904,7 +912,7 @@
       },
       {
         "text": "国家标准全文公开",
-        "url": "https://openstd.samr.gov.cn/bzgk/gb/index"
+        "url": "https://openstd.samr.gov.cn/"
       }
     ]
   }
