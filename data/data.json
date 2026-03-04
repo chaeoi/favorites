@@ -309,6 +309,10 @@
             "url": "https://iplark.com/"
           },
           {
+            "text": "IPSKK",
+            "url": "https://ip.skk.moe/"
+          },
+          {
             "text": "IP查询",
             "url": "https://ipw.cn/"
           },
@@ -721,7 +725,7 @@
           },
           {
             "text": "Rousi",
-            "url": "https://rousi.pro/"
+            "url": "https://rousi.zip/"
           },    
           {
             "text": "咖啡",
@@ -921,4 +925,3 @@
     ]
   }
 ]
-
