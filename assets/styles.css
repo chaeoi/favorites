@@ -1,7 +1,7 @@
 body {
   margin: 0;
   padding: 0;
-  font-family: LXGW WenKai Screen;
+  font-family: "LXGW WenKai Screen", ui-sans-serif, system-ui, -apple-system, "PingFang SC", "Microsoft YaHei", sans-serif;
   background-color: #f5f5f5;
   background-image: url("https://bwpapi.canghai.org/4k");
   background-size: cover;
@@ -94,7 +94,7 @@ header {
   width: 300px;
   padding: 6px 12px;
   font-size: 16px;
-  font-family: "LXGW WenKai Screen";
+  font-family: inherit;
   border: none;
   border-radius: 5px;
 }
