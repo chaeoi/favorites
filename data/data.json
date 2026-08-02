@@ -280,6 +280,10 @@
             "url": "https://wormhole.app/"
           },
           {
+            "text": "Sendf",
+            "url": "https://sendf.cc/"
+          },
+          {
             "text": "WolframAlpha",
             "url": "https://www.wolframalpha.com/"
           },
@@ -490,7 +494,7 @@
           },
           {
             "text": "SVG-edit",
-            "url": "https://svgedit.netlify.app/editor/index.html"
+            "url": "https://svgedit.netlify.app/"
           },
           {
             "text": "Simple Icons",
@@ -603,10 +607,6 @@
             "url": "https://greasyfork.org/"
           },
           {
-            "text": "Y2meta",
-            "url": "https://y2meta.tube/"
-          },
-          {
             "text": "Addoncrop",
             "url": "https://addoncrop.com/"
           },
@@ -640,10 +640,6 @@
       {
         "text": "TopsTip",
         "url": "https://topstip.com/"
-      },
-      {
-        "text": "Hogwarts",
-        "url": "https://winamp.top/"
       },
       {
         "text": "木木木木木",
@@ -844,10 +840,6 @@
       {
         "text": "LetPub",
         "url": "https://www.letpub.com.cn/"
-      },
-      {
-        "text": "Sci-Hub",
-        "url": "https://sci-hub.se/"
       },
       {
         "text": "百度学术",
